@@ -5,6 +5,8 @@ date: "2022-10-04"
 output: html_document
 ---
 
+Code from https://r-simmer.org/articles/simmer-01-introduction.html
+
 ```{r load packages}
 library(simmer)
 library(parallel)
